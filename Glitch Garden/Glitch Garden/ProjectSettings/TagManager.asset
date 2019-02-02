@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Lizard
+  - Zucchini
+  - Axe
+  - Fox
+  - Cactus
+  - Scarecrow
+  - Trophy
+  - Star Collected
+  - Gnome
+  - Gravestone
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Star Particle
+  - Defenders
+  - Axe
+  - Zucchini
+  - Barrier
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Star Particle
+    uniqueID: 1631942589
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
